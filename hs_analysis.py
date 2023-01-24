@@ -390,7 +390,7 @@ st.markdown("""
         need strong cards to defeat opponents, so when new cards are added to the game 
         (from new expansions every few months) they need to be stronger than cards that 
         are already in the game. Power creep is a bit like inflation--if a low, steady 
-        level of inflation is necessary to drive economic growth, then so to is a low, 
+        level of inflation is necessary to drive economic growth, then so too is a low, 
         steady level of power creep necessary to drive player engagement. The key words 
         being "low" and "steady". If too much power is added to a game too quickly, 
         this can reduce player engagement (e.g., the game may feel too unbalanced or too complex).
